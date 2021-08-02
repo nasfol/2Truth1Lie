@@ -1,0 +1,29 @@
+h3 {
+  color: blue;
+}
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+p {
+  color: red;
+}
+.main-content {
+  border: solid 10px black;
+  border-radius: 10px;
+  background-color: grey;
+}
+.lie-container {
+  display: flex;
+}
+.lie1 {
+  border: solid 1px black;
+  border-radius: 10px;
+  background-color: lightgrey;
+  text-align: center;
+  flex: 1;
+  margin: 4px 10px 20px 10px;
+}
+/* .lie1 {
+  margin-right: 20px;
+} */
